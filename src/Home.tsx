@@ -172,7 +172,7 @@ const Price = styled(Chip)`
   margin: 5px;
   font-weight: bold;
   font-size: 1.2em !important;
-  font-family: 'Patrick Hand', cursive !important;
+  font-family: 'Black Ops One', cursive !important;
 `;
 
 const Image = styled.img`
